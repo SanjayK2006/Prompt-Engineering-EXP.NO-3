@@ -1,6 +1,6 @@
-EX.NO:3 Exploring the different types of prompts- Straightforward Prompts - Tabular Format Prompting - Missing Word Prompting - Preceding Question Prompting.
+# EX.NO:3 Exploring the different types of prompts- Straightforward Prompts - Tabular Format Prompting - Missing Word Prompting - Preceding Question Prompting.
 
-Aim: To write the prompts for the following prompt types for 2 different scenarios of Each type.
+# Aim: To write the prompts for the following prompt types for 2 different scenarios of Each type.
 
 1.Straightforward Prompts
 
@@ -12,7 +12,7 @@ Aim: To write the prompts for the following prompt types for 2 different scenari
 
 Explanation - Any one use case from Unit 5 or any 2 own use cases with the unit 2 Prompt type
 
-Procedure:
+# Procedure:
 
 Write 2 different prompts for different use cases, refer the following Examples
 
@@ -30,7 +30,7 @@ Tabular Format Prompting:
 
 • "Provide a table listing five programming languages, their paradigms, and one use case each."
 
-Preceding Question Prompting:
+# Preceding Question Prompting:
 
 • "Why is climate change a global concern? Explain how greenhouse gases contribute to global warming."
 
@@ -41,8 +41,10 @@ Missing Word Prompting:
 • "The capital of France is ____."
 
 • "In photosynthesis, plants absorb sunlight to produce ____."
+
+# PROMPT:
+
 ```
-#PROMPT:
 Use this **perfect prompt** to generate your full experiment output in proper PDF-style format:
 
 ---
@@ -70,8 +72,9 @@ Ensure:
 Finally, include a proper Result and Conclusion summarizing the experiment."
 ```
 
-OUTPUT:
-prompt exp3.pdf
+# OUTPUT:
+[prompt exp3.pdf
+](https://github.com/SanjayK2006/Prompt-Engineering-EXP.NO-3/blob/main/prompt%20exp3.pdf)
 
-RESULT: 
+# RESULT: 
  All prompt types were successfully designed and generated accurate, clear, and structured outputs for different use cases.
