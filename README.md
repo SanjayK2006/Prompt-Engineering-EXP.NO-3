@@ -71,6 +71,6 @@ Finally, include a proper Result and Conclusion summarizing the experiment."
 ```
 
 OUTPUT:
-
+https://github.com/SanjayK2006/Prompt-Engineering-EXP.NO-3/blob/main/prompt%20exp3.pdf
 RESULT: 
  All prompt types were successfully designed and generated accurate, clear, and structured outputs for different use cases.
