@@ -41,7 +41,36 @@ Missing Word Prompting:
 • "The capital of France is ____."
 
 • "In photosynthesis, plants absorb sunlight to produce ____."
+```
+#PROMPT:
+Use this **perfect prompt** to generate your full experiment output in proper PDF-style format:
+
+---
+
+**Prompt:**
+
+"Generate a complete academic report for the experiment titled *'EX.NO:03 Exploring Different Types of Prompts'*. The report should strictly follow a formal lab record format with the following sections: Aim, Theory/Explanation, Procedure, Demonstration of Prompt Types, Result, and Conclusion.
+
+In the Demonstration section, include all four prompt types:
+
+1. Straightforward Prompts
+2. Tabular Format Prompting
+3. Preceding Question Prompting
+4. Missing Word Prompting
+
+For each prompt type, provide exactly **2 different prompts from different use cases** (such as AI, Cybersecurity, Networking, etc.), and also include their **clear and correct results/output**.
+
+Ensure:
+
+* The content is simple, clear, and suitable for exams
+* Tables are properly formatted where required
+* Outputs are accurate and relevant to each prompt
+* The structure matches a standard academic PDF/lab manual format
+
+Finally, include a proper Result and Conclusion summarizing the experiment."
+```
 
 OUTPUT:
 
 RESULT: 
+ All prompt types were successfully designed and generated accurate, clear, and structured outputs for different use cases.
