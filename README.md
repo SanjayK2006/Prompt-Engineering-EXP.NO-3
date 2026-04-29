@@ -71,7 +71,6 @@ Finally, include a proper Result and Conclusion summarizing the experiment."
 ```
 
 OUTPUT:
-
 prompt exp3.pdf
 
 RESULT: 
